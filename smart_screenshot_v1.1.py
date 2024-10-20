@@ -7,7 +7,7 @@ from pynput import keyboard
 import functools
 import re
 
-paused = False  # To control pause and resume
+paused = False  # to control pause and resume
 manual_screenshot = False # to check for manual screenshot
 
 def handle_exceptions(func):
