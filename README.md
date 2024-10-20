@@ -1,5 +1,8 @@
 This script captures screenshots whenever a significant change in the screen 
-is detected, based on a specified threshold.
+is detected, based on a specified threshold. It also takes into account previous used
+settings (in case you want to continue from where you left).
+
+No installations needed. You can run the standalone Windows binary (.exe) or the Python script.
 
 Input:
 
